@@ -1,23 +1,52 @@
-# PcBenchMark
+PcSpecsBenchMark
+A simple PC benchmarking tool that shows your system specs in a clean, modern interface.
 
-A simple PC benchmarking tool that shows your system specs and runs performance tests.
+Features
+CPU: Model, cores, threads, clock speed
 
-## Features
+RAM: Capacity, type (DDR3/DDR4/DDR5), speed, slots used
 
-- CPU info (model, cores, threads, clock speed)
-- RAM usage
-- Storage info
-- GPU detection
-- Quick benchmark tests
+GPU: Model, VRAM, driver version
 
-## How to Use
+Storage: All drives with capacities
 
-Download `PcSpecsBenchMarkV2Official.exe` and run it.
+Drive Usage: Used/Total space per partition
 
-## Screenshots
+Monitor: Resolution
 
+Motherboard: Manufacturer, model
+
+BIOS: Version, date
+
+OS: Name, build, architecture, uptime
+
+Network: Physical adapters list
+
+8 Color Themes: Click to cycle through styles
+
+Copy All: Export specs to clipboard
+
+How to Use
+Download PcSpecsBenchMarkV2Official.exe
+
+Double-click to run
+
+No installation needed
+
+Controls:
+
+Click "Theme: X" to change colors
+
+Click "Copy All" to copy specs to clipboard
+
+Screenshots
 (Add a screenshot here)
 
-## License
+Requirements
+Windows 7 or newer
 
+No additional software needed (standalone EXE)
+
+License
 MIT
+
